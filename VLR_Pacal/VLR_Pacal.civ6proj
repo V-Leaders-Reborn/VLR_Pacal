@@ -6,8 +6,8 @@
     <Guid>323ab142-28de-4ef8-ba5a-d46b3b84f071</Guid>
     <ProjectGuid>89db09c6-d8a3-4e1f-9673-0eb6c43d8226</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>V Leaders Reborn - Pacal</Teaser>
-    <Description>V Leaders Reborn - Pacal</Description>
+    <Teaser>Swaps Leader Art for Leugi's Pacal for animated and voiced Civ V Pacal.</Teaser>
+    <Description>Swaps Leader Art for Leugi's Pacal for animated and voiced Civ V Pacal.</Description>
     <Authors>Del</Authors>
     <SpecialThanks>
     </SpecialThanks>
@@ -18,8 +18,11 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>VLR_Pacal</AssemblyName>
     <RootNamespace>VLR_Pacal</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateArt id="VLR_Pacal_Art"><Properties><LoadOrder>200</LoadOrder></Properties><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="VLR_Pacal_Audio"><Properties><LoadOrder>200</LoadOrder></Properties><File>Platforms/Windows/Audio/Pacal_SoundBank.bnk</File><File>Platforms/Windows/Audio/Pacal_SoundBank.ini</File><File>Platforms/Windows/Audio/Pacal_SoundBank.txt</File><File>Platforms/Windows/Audio/Pacal_SoundBank.xml</File></UpdateAudio><UpdateDatabase id="VLR_Pacal_DB"><Properties><LoadOrder>200</LoadOrder></Properties><File>Core/Pacal_Tweak.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
-    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="VLR_Pacal_Conf_DB"><Properties><LoadOrder>200</LoadOrder></Properties><File>Core/Pacal_Config_Tweak.sql</File></UpdateDatabase></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateArt id="VLR_Pacal_Art"><Properties><LoadOrder>200</LoadOrder></Properties><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="VLR_Pacal_Audio"><Properties><LoadOrder>200</LoadOrder></Properties><File>Platforms/Windows/Audio/Pacal_SoundBank.bnk</File><File>Platforms/Windows/Audio/Pacal_SoundBank.ini</File><File>Platforms/Windows/Audio/Pacal_SoundBank.txt</File><File>Platforms/Windows/Audio/Pacal_SoundBank.xml</File></UpdateAudio><UpdateDatabase id="VLR_Pacal_DB"><Properties><LoadOrder>200</LoadOrder></Properties><File>Core/Pacal_Tweak.sql</File></UpdateDatabase><UpdateIcons id="VLR_Pacal_Icons"><Properties><LoadOrder>200</LoadOrder></Properties><File>Core/Pacal_Icons_Tweak.sql</File></UpdateIcons></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="VLR_Pacal_Conf_DB"><Properties><LoadOrder>200</LoadOrder></Properties><File>Core/Pacal_Config_Tweak.sql</File></UpdateDatabase><UpdateIcons id="VLR_Pacal_Conf_Icons"><Properties><LoadOrder>200</LoadOrder></Properties><File>Core/Pacal_Icons_Tweak.sql</File></UpdateIcons></FrontEndActions>]]></FrontEndActionData>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Mod" title="Leugi's Pacal (Maya)" id="5c5ed34e-f66b-41e4-aa7b-4546b298f2a0" />
+</Associations>]]></AssociationData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -35,6 +38,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Core\Pacal_Config_Tweak.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Pacal_Icons_Tweak.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Core\Pacal_Tweak.sql">

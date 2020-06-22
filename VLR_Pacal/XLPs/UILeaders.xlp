@@ -29,6 +29,38 @@
 			<m_EntryID text="LEADER_VLR_PACAL_LOADING"/>
 			<m_ObjectName text="LEADER_VLR_PACAL_LOADING"/>
 		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_32"/>
+			<m_ObjectName text="ICON_VLR_PACAL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_45"/>
+			<m_ObjectName text="ICON_VLR_PACAL_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_48"/>
+			<m_ObjectName text="ICON_VLR_PACAL_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_50"/>
+			<m_ObjectName text="ICON_VLR_PACAL_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_55"/>
+			<m_ObjectName text="ICON_VLR_PACAL_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_64"/>
+			<m_ObjectName text="ICON_VLR_PACAL_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_80"/>
+			<m_ObjectName text="ICON_VLR_PACAL_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_VLR_PACAL_256"/>
+			<m_ObjectName text="ICON_VLR_PACAL_256"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
