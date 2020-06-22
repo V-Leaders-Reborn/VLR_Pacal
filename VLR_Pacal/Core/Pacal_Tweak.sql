@@ -1,0 +1,3 @@
+UPDATE LoadingInfo
+SET    ForegroundImage = 'LEADER_VLR_PACAL_LOADING', BackgroundImage = 'LEADER_LEU_PACAL_BACKGROUND'
+WHERE  LeaderType = 'LEADER_LEU_PACAL';

@@ -1,0 +1,39 @@
+Event	ID	Name			Wwise Object Path	Notes
+	264615826	FootDirt			\Default Work Unit\FootDirt	
+	314546434	PatCamel			\Default Work Unit\PatCamel	
+	720065194	JewelryMetal			\Default Work Unit\JewelryMetal	
+	795476424	SwordSwingLow			\Default Work Unit\SwordSwingLow	
+	941848156	PacalDeclareWar			\Default Work Unit\PacalDeclareWar	
+	1167943436	JewelryBeads			\Default Work Unit\JewelryBeads	
+	1630746584	BluntFlesh			\Default Work Unit\BluntFlesh	
+	2000767502	StaffDirt			\Default Work Unit\StaffDirt	
+	2316273318	SandalLow			\Default Work Unit\SandalLow	
+	2370190553	ClothMoveDressLow			\Default Work Unit\ClothMoveDressLow	
+	2854832342	PacalDefeated			\Default Work Unit\PacalDefeated	
+	2856955308	JewelryMetalLow			\Default Work Unit\JewelryMetalLow	
+	3004759719	PacalNeutralHello			\Default Work Unit\PacalNeutralHello	
+	3291741702	PacalIntro			\Default Work Unit\PacalIntro	
+	3841849664	PacalHateHello			\Default Work Unit\PacalHateHello	
+	3878908075	BismarckStepLow			\Default Work Unit\BismarckStepLow	
+	3927509583	PacalAttacked			\Default Work Unit\PacalAttacked	
+	4257305375	PacalPeaceful			\Default Work Unit\PacalPeaceful	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1429417	bluntflesh-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\bluntflesh-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\bluntflesh-000		56540
+	131647691	jewelrymetal-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\jewelrymetal-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\jewelrymetal-000		23552
+	188922057	PacalNeutralHello	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\PacalNeutralHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\PacalNeutralHello		244288
+	215808174	bismarckstep-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\bismarckstep-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\bismarckstep-000		6068
+	277060884	PacalAttacked	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\PacalAttacked_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\PacalAttacked		198208
+	341576650	staffdirt-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\staffdirt-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\staffdirt-000		17448
+	483013340	PacalIntro	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\PacalIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\PacalIntro		532288
+	548606550	swordswing-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\swordswing-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\swordswing-000		30256
+	581911159	PacalPeaceful	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\PacalPeaceful_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\PacalPeaceful		244288
+	684825597	jewelrybeads-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\jewelrybeads-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\jewelrybeads-000		187192
+	742012659	PacalHateHello	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\PacalHateHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\PacalHateHello		122176
+	765519329	PacalDeclareWar	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\PacalDeclareWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\PacalDeclareWar		267328
+	814899834	footdirt-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\footdirt-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\footdirt-000		44432
+	919836117	sandal-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\sandal-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\sandal-000		23584
+	928462444	patcamel-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\patcamel-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\patcamel-000		13380
+	936566964	clothmovedress-000	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\clothmovedress-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\clothmovedress-000		93984
+	974601355	PacalDefeated	C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\SFX\PacalDefeated_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Pacal\PacalDefeated		460864
+

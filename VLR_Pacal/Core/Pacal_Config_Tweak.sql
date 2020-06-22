@@ -1,0 +1,3 @@
+UPDATE Players
+SET    Portrait = 'LEADER_VLR_PACAL_CONFIG'
+WHERE  LeaderType = 'LEADER_LEU_PACAL';

@@ -21,6 +21,14 @@
 			<m_EntryID text="LEU_PACAL_3"/>
 			<m_ObjectName text="LEU_PACAL_3"/>
 		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VLR_PACAL_CONFIG"/>
+			<m_ObjectName text="LEADER_VLR_PACAL_CONFIG"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VLR_PACAL_LOADING"/>
+			<m_ObjectName text="LEADER_VLR_PACAL_LOADING"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

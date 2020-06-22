@@ -333,6 +333,7 @@
 		<Element>
 			<consumerName text="LeaderFallback"/>
 			<relativeArtDefPaths>
+				<Element text="LeaderFallback.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="LeaderFallback"/>

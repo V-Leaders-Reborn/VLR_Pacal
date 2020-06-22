@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\User\Documents\WwiseProjects\Pacal_Audio\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\User\Documents\WwiseProjects\Pacal_Audio\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\User\Documents\WwiseProjects\Pacal_Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\User\Documents\WwiseProjects\Pacal_Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1475281910" Language="SFX">
+			<ShortName>Pacal_SoundBank</ShortName>
+			<Path>Pacal_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3878908075" Name="BismarckStepLow"/>
+				<Event Id="1630746584" Name="BluntFlesh"/>
+				<Event Id="2370190553" Name="ClothMoveDressLow"/>
+				<Event Id="264615826" Name="FootDirt"/>
+				<Event Id="1167943436" Name="JewelryBeads"/>
+				<Event Id="720065194" Name="JewelryMetal"/>
+				<Event Id="2856955308" Name="JewelryMetalLow"/>
+				<Event Id="3927509583" Name="PacalAttacked"/>
+				<Event Id="941848156" Name="PacalDeclareWar"/>
+				<Event Id="2854832342" Name="PacalDefeated"/>
+				<Event Id="3841849664" Name="PacalHateHello"/>
+				<Event Id="3291741702" Name="PacalIntro"/>
+				<Event Id="3004759719" Name="PacalNeutralHello"/>
+				<Event Id="4257305375" Name="PacalPeaceful"/>
+				<Event Id="314546434" Name="PatCamel"/>
+				<Event Id="2316273318" Name="SandalLow"/>
+				<Event Id="2000767502" Name="StaffDirt"/>
+				<Event Id="795476424" Name="SwordSwingLow"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="1429417" Language="SFX">
+					<ShortName>bluntflesh-000.wav</ShortName>
+					<Path>SFX\bluntflesh-000_9E69E797.wem</Path>
+				</File>
+				<File Id="131647691" Language="SFX">
+					<ShortName>jewelrymetal-000.wav</ShortName>
+					<Path>SFX\jewelrymetal-000_9E69E797.wem</Path>
+				</File>
+				<File Id="188922057" Language="SFX">
+					<ShortName>PacalNeutralHello.wav</ShortName>
+					<Path>SFX\PacalNeutralHello_9E69E797.wem</Path>
+				</File>
+				<File Id="215808174" Language="SFX">
+					<ShortName>bismarckstep-000.wav</ShortName>
+					<Path>SFX\bismarckstep-000_9E69E797.wem</Path>
+				</File>
+				<File Id="277060884" Language="SFX">
+					<ShortName>PacalAttacked.wav</ShortName>
+					<Path>SFX\PacalAttacked_9E69E797.wem</Path>
+				</File>
+				<File Id="341576650" Language="SFX">
+					<ShortName>staffdirt-000.wav</ShortName>
+					<Path>SFX\staffdirt-000_9E69E797.wem</Path>
+				</File>
+				<File Id="483013340" Language="SFX">
+					<ShortName>PacalIntro.wav</ShortName>
+					<Path>SFX\PacalIntro_9E69E797.wem</Path>
+				</File>
+				<File Id="548606550" Language="SFX">
+					<ShortName>swordswing-000.wav</ShortName>
+					<Path>SFX\swordswing-000_9E69E797.wem</Path>
+				</File>
+				<File Id="581911159" Language="SFX">
+					<ShortName>PacalPeaceful.wav</ShortName>
+					<Path>SFX\PacalPeaceful_9E69E797.wem</Path>
+				</File>
+				<File Id="684825597" Language="SFX">
+					<ShortName>jewelrybeads-000.wav</ShortName>
+					<Path>SFX\jewelrybeads-000_9E69E797.wem</Path>
+				</File>
+				<File Id="742012659" Language="SFX">
+					<ShortName>PacalHateHello.wav</ShortName>
+					<Path>SFX\PacalHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="765519329" Language="SFX">
+					<ShortName>PacalDeclareWar.wav</ShortName>
+					<Path>SFX\PacalDeclareWar_9E69E797.wem</Path>
+				</File>
+				<File Id="814899834" Language="SFX">
+					<ShortName>footdirt-000.wav</ShortName>
+					<Path>SFX\footdirt-000_9E69E797.wem</Path>
+				</File>
+				<File Id="919836117" Language="SFX">
+					<ShortName>sandal-000.wav</ShortName>
+					<Path>SFX\sandal-000_9E69E797.wem</Path>
+				</File>
+				<File Id="928462444" Language="SFX">
+					<ShortName>patcamel-000.wav</ShortName>
+					<Path>SFX\patcamel-000_9E69E797.wem</Path>
+				</File>
+				<File Id="936566964" Language="SFX">
+					<ShortName>clothmovedress-000.wav</ShortName>
+					<Path>SFX\clothmovedress-000_9E69E797.wem</Path>
+				</File>
+				<File Id="974601355" Language="SFX">
+					<ShortName>PacalDefeated.wav</ShortName>
+					<Path>SFX\PacalDefeated_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

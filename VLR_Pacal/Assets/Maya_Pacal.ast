@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects:AssetInstance>
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetObjects..AssetInstance>
     <m_BehaviorData>
         <m_behaviorDataSets>
             <m_animationBindings>
@@ -249,7 +249,88 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_intro"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="1"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PacalIntro"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.696297467</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="35"/>
+                                <m_Description text=""/>
+                                <m_FXName text="SandalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>4.30908346</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="37"/>
+                                <m_Description text=""/>
+                                <m_FXName text="SandalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>5.45723343</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="31"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>4.70535326</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="32"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>4.85124445</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="64"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>4.23703671</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="65"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetal"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.72777772</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="73"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>5.142014</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -282,7 +363,38 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_attacked"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="16"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PacalAttacked"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.0221238956</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="75"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.062963</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="106"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.00370431</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -315,7 +427,88 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_declare_war"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="15"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PacalDeclareWar"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.00884962</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="69"/>
+                                <m_Description text=""/>
+                                <m_FXName text="StaffDirt"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>3.27992</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="70"/>
+                                <m_Description text=""/>
+                                <m_FXName text="BismarckStepLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>3.25196767</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="71"/>
+                                <m_Description text=""/>
+                                <m_FXName text="SandalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.133044</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="72"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.25</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="103"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.34259284</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="104"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.535185</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="105"/>
+                                <m_Description text=""/>
+                                <m_FXName text="SwordSwingLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>3.13103271</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -348,7 +541,68 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_neutral_hello"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="4"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PacalNeutralHello"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.02777815</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="47"/>
+                                <m_Description text=""/>
+                                <m_FXName text="BismarckStepLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.33703732</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="48"/>
+                                <m_Description text=""/>
+                                <m_FXName text="BismarckStepLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.738599</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="36"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.30371833</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="92"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.08518517</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="93"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.39379334</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -381,7 +635,28 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_hate_hello"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="17"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PacalHateHello"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.01991165</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="77"/>
+                                <m_Description text=""/>
+                                <m_FXName text="SandalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.413079</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -414,7 +689,108 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_defeated"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="14"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PacalDefeated"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="66"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDress"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.6351852</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="67"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PatCamel"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.05370367</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="68"/>
+                                <m_Description text=""/>
+                                <m_FXName text="FootDirt"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.07222223</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="41"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.73365188</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="98"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.9074074</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="99"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.44444418</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="100"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>4.4192276</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="101"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>5.95889759</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="102"/>
+                                <m_Description text=""/>
+                                <m_FXName text="BluntFlesh"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.04259229</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -447,7 +823,88 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_declare_war"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="15"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PacalDeclareWar"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.00884962</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="69"/>
+                                <m_Description text=""/>
+                                <m_FXName text="StaffDirt"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>3.27992</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="70"/>
+                                <m_Description text=""/>
+                                <m_FXName text="BismarckStepLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>3.25196767</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="71"/>
+                                <m_Description text=""/>
+                                <m_FXName text="SandalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.133044</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="72"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.25</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="103"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.34259284</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="104"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.535185</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="105"/>
+                                <m_Description text=""/>
+                                <m_FXName text="SwordSwingLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>3.13103271</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -513,7 +970,38 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="40"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.87037039</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="56"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.5685186</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="59"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.69074082</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -546,7 +1034,38 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="40"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.87037039</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="56"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.5685186</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="59"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.69074082</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -678,7 +1197,38 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="40"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.87037039</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="56"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.5685186</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="59"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.69074082</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -711,7 +1261,38 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="40"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>2.87037039</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="56"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.5685186</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="59"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.69074082</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -843,7 +1424,28 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_hate_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="49"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.39074075</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="107"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.25370336</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -876,7 +1478,28 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_hate_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="49"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.39074075</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="107"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryBeads"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.25370336</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -909,7 +1532,28 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_hate_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="42"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.7518518</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="43"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.95740736</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -942,7 +1586,28 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_hate_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="42"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.7518518</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="43"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetalLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.95740736</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -1008,7 +1673,58 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_trans_neutral_attack"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="78"/>
+                                <m_Description text=""/>
+                                <m_FXName text="BismarckStepLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.91481483</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="79"/>
+                                <m_Description text=""/>
+                                <m_FXName text="StaffDirt"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.70740759</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="80"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PatCamel"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.8925926</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="81"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.401851863</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="108"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetal"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.627777755</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -1107,7 +1823,58 @@
                         <m_Description text=""/>
                         <m_AnimationName text="maya_pacal_trans_neutral_attack"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="78"/>
+                                <m_Description text=""/>
+                                <m_FXName text="BismarckStepLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.91481483</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="79"/>
+                                <m_Description text=""/>
+                                <m_FXName text="StaffDirt"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>1.70740759</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="80"/>
+                                <m_Description text=""/>
+                                <m_FXName text="PatCamel"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.8925926</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="81"/>
+                                <m_Description text=""/>
+                                <m_FXName text="ClothMoveDressLow"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.401851863</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="108"/>
+                                <m_Description text=""/>
+                                <m_FXName text="JewelryMetal"/>
+                                <m_CollectionName text=""/>
+                                <m_fStartTime>0.627777755</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex text="0"/>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -1204,8 +1971,7 @@
                 </m_Timelines>
             </m_timelines>
             <m_attachmentPoints>
-                <m_Points>
-                </m_Points>
+                <m_Points/>
             </m_attachmentPoints>
         </m_behaviorDataSets>
         <m_behaviorInstances/>
@@ -1232,138 +1998,139 @@
                         <m_StateName text="Default"/>
                     </Element>
                 </m_GroupStates>
-            </Element><Element>
-            <m_Name text="Human"/>
-            <m_GeoName text="maya_pacal"/>
-            <m_GroupStates>
-                <Element>
-                    <m_Values>
+            </Element>
+            <Element>
+                <m_Name text="Human"/>
+                <m_GeoName text="maya_pacal"/>
+                <m_GroupStates>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Trans_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Trans_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Trans_DIFF.dds"/>
-                    <m_MeshName text="feathers_detached"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Pacal_Trans_DIFF.dds"/>
+                        <m_MeshName text="feathers_detached"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Leader_cornea"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Leader_cornea"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Leader_cornea.001"/>
-                    <m_MeshName text="PACAL Eye Spec POLY"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Leader_cornea.001"/>
+                        <m_MeshName text="PACAL Eye Spec POLY"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Skin_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Skin_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Skin_DIFF.dds.001"/>
-                    <m_MeshName text="PACAL Skin POLY"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Pacal_Skin_DIFF.dds.001"/>
+                        <m_MeshName text="PACAL Skin POLY"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Skin_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Skin_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Skin_DIFF.dds.002"/>
-                    <m_MeshName text="PACAL Skin POLY2"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Pacal_Skin_DIFF.dds.002"/>
+                        <m_MeshName text="PACAL Skin POLY2"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Trans_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Trans_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Trans_DIFF.dds.001"/>
-                    <m_MeshName text="PACAL Transparency POLY"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Pacal_Trans_DIFF.dds.001"/>
+                        <m_MeshName text="PACAL Transparency POLY"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Clothing_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Clothing_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Clothing_DIFF.dds"/>
-                    <m_MeshName text="PACAL_Clothing_POLY"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Pacal_Clothing_DIFF.dds"/>
+                        <m_MeshName text="PACAL_Clothing_POLY"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Clothing_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Clothing_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Clothing_DIFF.dds.001"/>
-                    <m_MeshName text="PACAL_Clothing_POLY2"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Pacal_Clothing_DIFF.dds.001"/>
+                        <m_MeshName text="PACAL_Clothing_POLY2"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Skin_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Skin_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Skin_DIFF.dds"/>
-                    <m_MeshName text="PACAL_Mouth_POLY"/>
-                    <m_StateName text="Default"/>
-                </Element>
-                <Element>
-                    <m_Values>
+                        <m_GroupName text="Pacal_Skin_DIFF.dds"/>
+                        <m_MeshName text="PACAL_Mouth_POLY"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                    <Element>
                         <m_Values>
-                            <Element class="AssetObjects:ObjectValue">
-                                <m_ObjectName text="Pacal_Teeth_DIFF"/>
-                                <m_eObjectType>MATERIAL</m_eObjectType>
-                                <m_ParamName text="Material"/>
-                            </Element>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Pacal_Teeth_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
                         </m_Values>
-                    </m_Values>
-                    <m_GroupName text="Pacal_Teeth_DIFF.dds"/>
-                    <m_MeshName text="PACAL_Teeth_POLY"/>
-                    <m_StateName text="Default"/>
-                </Element>
-            </m_GroupStates>
-        </Element>
+                        <m_GroupName text="Pacal_Teeth_DIFF.dds"/>
+                        <m_MeshName text="PACAL_Teeth_POLY"/>
+                        <m_StateName text="Default"/>
+                    </Element>
+                </m_GroupStates>
+            </Element>
         </m_ModelInstances>
     </m_GeometrySet>
     <m_CookParams>
@@ -1387,4 +2154,4 @@
         <Element text="Leader"/>
     </m_Tags>
     <m_Groups/>
-</AssetObjects:AssetInstance>
+</AssetObjects..AssetInstance>
